@@ -1,0 +1,11 @@
+circle{
+    opacity: 0.5;
+    fill: #222;
+    stroke: aquamarine;
+    stroke-width: 5;
+}
+
+circle:hover{
+    opacity: 1;
+    stroke-width: 8;
+}
